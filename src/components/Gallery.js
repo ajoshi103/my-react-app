@@ -8,9 +8,9 @@ function Gallery() {
     'https://th.bing.com/th/id/R.ce8a61f344fcb6dc0e0cdb6f5c5c1368?rik=QxNOdOYDxtN%2fmg&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f5%2f4%2fc%2f692635-large-naruto-shippuden-sasuke-wallpaper-2560x1600-windows-10.jpg&ehk=fX%2b%2fhP9znrDfMpkpD5UEnE6pSkwIFb%2fMqCQ5Iz%2fm0C4%3d&risl=&pid=ImgRaw&r=0',
     'https://th.bing.com/th/id/R.ce8a61f344fcb6dc0e0cdb6f5c5c1368?rik=QxNOdOYDxtN%2fmg&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f5%2f4%2fc%2f692635-large-naruto-shippuden-sasuke-wallpaper-2560x1600-windows-10.jpg&ehk=fX%2b%2fhP9znrDfMpkpD5UEnE6pSkwIFb%2fMqCQ5Iz%2fm0C4%3d&risl=&pid=ImgRaw&r=0',
     'https://th.bing.com/th/id/R.ce8a61f344fcb6dc0e0cdb6f5c5c1368?rik=QxNOdOYDxtN%2fmg&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f5%2f4%2fc%2f692635-large-naruto-shippuden-sasuke-wallpaper-2560x1600-windows-10.jpg&ehk=fX%2b%2fhP9znrDfMpkpD5UEnE6pSkwIFb%2fMqCQ5Iz%2fm0C4%3d&risl=&pid=ImgRaw&r=0',
-    'https://th.bing.com/th/id/R.ce8a61f344fcb6dc0e0cdb6f5c5c1368?rik=QxNOdOYDxtN%2fmg&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f5%2f4%2fc%2f692635-large-naruto-shippuden-sasuke-wallpaper-2560x1600-windows-10.jpg&ehk=fX%2b%2fhP9znrDfMpkpD5UEnE6pSkwIFb%2fMqCQ5Iz%2fm0C4%3d&risl=&pid=ImgRaw&r=0',
-    'https://th.bing.com/th/id/R.ce8a61f344fcb6dc0e0cdb6f5c5c1368?rik=QxNOdOYDxtN%2fmg&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f5%2f4%2fc%2f692635-large-naruto-shippuden-sasuke-wallpaper-2560x1600-windows-10.jpg&ehk=fX%2b%2fhP9znrDfMpkpD5UEnE6pSkwIFb%2fMqCQ5Iz%2fm0C4%3d&risl=&pid=ImgRaw&r=0',
-    'https://th.bing.com/th/id/R.ce8a61f344fcb6dc0e0cdb6f5c5c1368?rik=QxNOdOYDxtN%2fmg&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f5%2f4%2fc%2f692635-large-naruto-shippuden-sasuke-wallpaper-2560x1600-windows-10.jpg&ehk=fX%2b%2fhP9znrDfMpkpD5UEnE6pSkwIFb%2fMqCQ5Iz%2fm0C4%3d&risl=&pid=ImgRaw&r=0'
+
+    
+   
   ]);
 
   const [currentPage, setCurrentPage] = useState(0);
